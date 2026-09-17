@@ -8,11 +8,6 @@
    "pedacos": 2
   },
   {
-   "palavra": "abelha",
-   "caminho": "corrida",
-   "pedacos": 3
-  },
-  {
    "palavra": "bola",
    "caminho": "corrida",
    "pedacos": 2
@@ -23,7 +18,7 @@
    "pedacos": 3
   },
   {
-   "palavra": "cachorro",
+   "palavra": "abelha",
    "caminho": "corrida",
    "pedacos": 3
   },
@@ -33,9 +28,9 @@
    "pedacos": 3
   },
   {
-   "palavra": "escola",
+   "palavra": "cone",
    "caminho": "corrida",
-   "pedacos": 3
+   "pedacos": 2
   },
   {
    "palavra": "cebola",
@@ -43,9 +38,9 @@
    "pedacos": 3
   },
   {
-   "palavra": "cone",
+   "palavra": "cachorro",
    "caminho": "corrida",
-   "pedacos": 2
+   "pedacos": 3
   },
   {
    "palavra": "faca",
@@ -58,12 +53,12 @@
    "pedacos": 2
   },
   {
-   "palavra": "gato",
+   "palavra": "foguete",
    "caminho": "corrida",
-   "pedacos": 2
+   "pedacos": 3
   },
   {
-   "palavra": "foguete",
+   "palavra": "escola",
    "caminho": "corrida",
    "pedacos": 3
   },
@@ -71,6 +66,11 @@
    "palavra": "galinha",
    "caminho": "corrida",
    "pedacos": 3
+  },
+  {
+   "palavra": "gato",
+   "caminho": "corrida",
+   "pedacos": 2
   },
   {
    "palavra": "girafa",
@@ -88,9 +88,9 @@
    "pedacos": 2
   },
   {
-   "palavra": "luneta",
+   "palavra": "maca",
    "caminho": "corrida",
-   "pedacos": 3
+   "pedacos": 2
   },
   {
    "palavra": "laranja",
@@ -98,9 +98,9 @@
    "pedacos": 3
   },
   {
-   "palavra": "maca",
+   "palavra": "luneta",
    "caminho": "corrida",
-   "pedacos": 2
+   "pedacos": 3
   },
   {
    "palavra": "macaco",
@@ -128,12 +128,12 @@
    "pedacos": 3
   },
   {
-   "palavra": "piao",
+   "palavra": "peixe",
    "caminho": "corrida",
    "pedacos": 2
   },
   {
-   "palavra": "peixe",
+   "palavra": "piao",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -143,17 +143,7 @@
    "pedacos": 3
   },
   {
-   "palavra": "sino",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
    "palavra": "sapo",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
-   "palavra": "rato",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -161,6 +151,16 @@
    "palavra": "sapato",
    "caminho": "corrida",
    "pedacos": 3
+  },
+  {
+   "palavra": "rato",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
+   "palavra": "sino",
+   "caminho": "corrida",
+   "pedacos": 2
   },
   {
    "palavra": "tesoura",
@@ -183,12 +183,12 @@
    "pedacos": 2
   },
   {
-   "palavra": "vela",
+   "palavra": "zebra",
    "caminho": "corrida",
    "pedacos": 2
   },
   {
-   "palavra": "zebra",
+   "palavra": "vela",
    "caminho": "corrida",
    "pedacos": 2
   }
